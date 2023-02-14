@@ -1,0 +1,29 @@
+{
+  "name": "@windrunner/root",
+  "version": "0.0.0",
+  "description": "A highly-opinionated Node.js web server framework for building fast, secure, and scalable microservices and clients.",
+  "scripts": {
+    "build": "npx lerna run build",
+    "lint": "npx lerna run lint",
+    "lint:fix": "npx lerna run lint:fix",
+    "test": "npx lerna run test",
+    "test:coverage": "npx lerna run test:coverage"
+  },
+  "devDependencies": {
+    "@nrwl/nx-cloud": "^15.0.3",
+    "lerna": "^6.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oaspub/windrunner.git"
+  },
+  "author": "Spencer Tuft <stuft2@protonmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/oaspub/windrunner/issues"
+  },
+  "homepage": "https://github.com/oaspub/windrunner#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
