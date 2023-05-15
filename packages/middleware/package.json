@@ -15,12 +15,12 @@
     "test:coverage": "c8 ava"
   },
   "dependencies": {
-    "@tsconfig/node18": "^1.0.1",
+    "@tsconfig/node18": "^2.0.1",
     "lodash.remove": "^4.7.0",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
-    "@tsconfig/node18": "^1.0.1",
+    "@tsconfig/node18": "^2.0.1",
     "@types/lodash.remove": "^4.7.7",
     "@types/node": "^18.14.0",
     "ava": "^5.1.1",
