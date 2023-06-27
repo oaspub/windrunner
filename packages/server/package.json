@@ -15,7 +15,7 @@
     "test:coverage": "c8 ava"
   },
   "dependencies": {
-    "@sinclair/typebox": "^0.25.21",
+    "@sinclair/typebox": "^0.28.19",
     "@tsconfig/node18": "^1.0.1",
     "@windrunner/contract": "*",
     "@windrunner/middleware": "*",
