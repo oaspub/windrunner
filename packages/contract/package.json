@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@tsconfig/node18": "^1.0.1",
-    "@types/node": "^18.14.0",
+    "@types/node": "^20.4.0",
     "@types/pluralize": "^0.0.29",
     "ava": "^5.1.1",
     "c8": "^7.12.0",
