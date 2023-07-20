@@ -10,7 +10,7 @@
     "test:coverage": "npx lerna run test:coverage"
   },
   "devDependencies": {
-    "@nrwl/nx-cloud": "^15.1.0",
+    "@nrwl/nx-cloud": "^16.1.1",
     "lerna": "^6.0.3"
   },
   "repository": {
